@@ -6,7 +6,7 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 
 #### ***Section 5.1 Simulation Analysis***
 
-Steps to reproduce the results
+Steps to reproduce the results:
 
 1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation folder.
 2. Run generateSimulationData.R.
@@ -16,7 +16,7 @@ Steps to reproduce the results
 
 #### ***Section 5.2 Offline Test***
 
-Steps to reproduce the results
+Steps to reproduce the results:
 
 
 1. xx
