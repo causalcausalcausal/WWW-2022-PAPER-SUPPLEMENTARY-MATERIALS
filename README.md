@@ -4,15 +4,18 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 
 ## **Reproduction Instructions**
 
-**A.**   Steps to reproduce the results of ***Section 5.1 Simulation Analysis***
+#### ***Section 5.1 Simulation Analysis***
+
+Steps to reproduce the results
 
 1. xx
 2. xx
 3. xx
 
 
+#### ***Section 5.2 Offline Test***
 
-**B.**   Steps to reproduce the results of ***Section 5.2 Offline Test***
+Steps to reproduce the results
 
 
 1. xx
