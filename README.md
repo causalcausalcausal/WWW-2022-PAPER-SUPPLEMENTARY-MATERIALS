@@ -6,7 +6,7 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 
 ### Steps to reproduce the results
 ```
-1. git status
-2. git add
-3. git commit
+1. xx
+2. xx
+3. xx
 ```
