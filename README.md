@@ -23,6 +23,6 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 ## **Useful Information**
 
 
-1. The proposed **UDCF** (**U**nified **D**iscriminative **C**ausal **F**orest) is implemented by directly modifying the core C++ source code of **GRF** (**G**eneralized **R**andom **F**orests) with a new splitting criterion. Therefore, UDCF requires a C++ running environment as GRF. Detailed info for environment configuration plz refers to  [GRF Pages](https://github.com/grf-labs/grf).
-2. 
+1. The proposed CATE estimation method **UDCF** (**U**nified **D**iscriminative **C**ausal **F**orest) is implemented by directly modifying the core C++ source code of **GRF** (**G**eneralized **R**andom **F**orests) with a new splitting criterion. Therefore, UDCF requires a C++ running environment as GRF. Detailed info for environment configuration plz refers to  [GRF Pages](https://github.com/grf-labs/grf).
+2. The proposed MCKP distributed algorithm **DGB** (**D**ual **G**radient **B**isection) is written in Python and run on Pytorch.
 3. xx
