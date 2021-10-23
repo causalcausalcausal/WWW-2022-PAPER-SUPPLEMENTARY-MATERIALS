@@ -8,9 +8,10 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 
 Steps to reproduce the results
 
-1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation; run generateSimulationData.R.
-2. Follow the instruction under each model's folder for training and predicting; run different models' budget_allocation.py.
-3. run simulation_analysis_result.py under Code/Evaluation.
+1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation folder.
+2. Run generateSimulationData.R.
+3. Follow the instruction under each model's folder for training and prediction; run budget_allocation.py for each model.
+4. Run simulation_analysis_result.py under Code/Evaluation folder.
 
 
 #### ***Section 5.2 Offline Test***
