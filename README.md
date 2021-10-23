@@ -11,7 +11,7 @@ Steps to reproduce the results:
 1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation folder.
 2. Run generateSimulationData.R.
 3. Follow the instruction under each model's folder for training and prediction; run budget_allocation.py for each model.
-4. Run simulation_analysis_result.py under Code/Evaluation folder.
+4. Run Simulation_analysis.py under Code/Evaluation folder.
 
 
 #### ***Section 5.2 Offline Test***
