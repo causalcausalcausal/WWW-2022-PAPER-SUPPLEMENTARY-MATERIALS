@@ -23,6 +23,6 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 ## **Useful Information**
 
 
-1. The proposed **UDCF** (**U**nified **D**iscriminative **C**ausal **F**orest) is implemented by directly modifying the core C++ source code of **GRF** (**G**eneralized **R**andom **F**orests) with a new splitting criterion. Therefore, UDCF requires a C++ running environment as GRF. Details info for environment configuration plz refers to  [GRF GitHub Pages](https://github.com/grf-labs/grf).
+1. The proposed **UDCF** (**U**nified **D**iscriminative **C**ausal **F**orest) is implemented by directly modifying the core C++ source code of **GRF** (**G**eneralized **R**andom **F**orests) with a new splitting criterion. Therefore, UDCF requires a C++ running environment as GRF. Detailed info for environment configuration plz refers to  [GRF Pages](https://github.com/grf-labs/grf).
+2. 
 3. xx
-4. xx
