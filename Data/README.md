@@ -1,6 +1,6 @@
 
 
-##Data
+## Data
 
 **Data Folder** contains two sub-folders: 
 * **Synthetic Data Folder** includes training data and testing data generated; 
@@ -19,7 +19,7 @@ Each training sample was attributed with the following:
 
 
 
-###RCT Data Folder
+### RCT Data Folder
 This folder contains web-scale RCT data collected from a video streaming platform which was used as training instances. 
 The dataset records the users' campaign engagement duration (i.e., outcome) in seven randomly enrolled incentive groups, each offered bonuses at different levels (i.e., multi-treatment). In the experiments of Section 5.2, our dataset consists of over 100 K app visit instances. 
 
