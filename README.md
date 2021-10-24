@@ -16,6 +16,8 @@ Steps to reproduce the results:
 
 #### ***Section 5.2 Offline Test***
 
+*Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication but the reader can use the code provided to run this algorithm on other dataset.*
+
 Steps to reproduce the results:
 
 
