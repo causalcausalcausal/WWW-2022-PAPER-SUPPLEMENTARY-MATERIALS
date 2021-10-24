@@ -6,24 +6,14 @@ This model utilized C++ code for training UDCF models and prediction, and python
 
 The steps for simulation data are as follow:
 
-    unzip CF_DT_Synthetic.zip
+    unzip LBCF_Synthetic.zip
     python data_preprocessing.py
-    follow instructions under ./MBCF_Synthetic for training and prediciton
-    python data_merging.py
-    python CF_DT_budget_allocation.py
+    follow instructions under ./LBCF_Synthetic for training and prediciton
+    python LBCF_budget_allocation.py
     
 The steps for RCT data are as follow:
 
-    unzip CF_DT_RCT.zip
-    follow instructions under ./MBCF_RCT for training and prediciton
-    python data_merging.py
-    python CF_DT_budget_allocation-RCT.py
+    unzip LBCF_RCT.zip
+    follow instructions under ./LBCF_RCT for training and prediciton
+    python LBCF_budget_allocation-RCT.py
 
-
-Folder for simulation data:
-./UDCF_Synthetic
-
-Folder for RCT data:
-./UDCF_RCT
-
-Please follow the README file in each folder to train models.
