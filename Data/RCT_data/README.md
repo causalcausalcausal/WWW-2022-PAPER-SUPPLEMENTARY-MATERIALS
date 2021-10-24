@@ -5,4 +5,4 @@ This folder contains real—world data rct_test.csv and rct_traning.csv for offl
 
 Due to the privacy nature of the data, currently we are not able to disclose all the actual data used in our experiments until publication. A small part (about 2000 samples) of real-world data are provided for running the code, **NOT FOR REPRODUCE THE RESULT** in Section 5.2, and **ALL THE 2000 SAMPLES HAVE BEEN ENCRYPTED**. 
 
-*Other data files are formatted for training and prediction.*
+*This folder also contains different formats of the samples for training and prediction.*
