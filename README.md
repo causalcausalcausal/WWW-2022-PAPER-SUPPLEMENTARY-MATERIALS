@@ -10,7 +10,7 @@ Steps to reproduce the results:
 
 1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation folder.
 2. Run generateSimulationData.R.
-3. Follow the instruction under each model's folder for training and prediction; run budget_allocation.py for each model.
+3. Follow the instructions under each model's folder for training and prediction; run budget_allocation.py for each model.
 4. Run Simulation_analysis.py under Code/Evaluation folder.
 
 
@@ -21,8 +21,8 @@ Steps to reproduce the results:
 
 Steps to run the codes:
 
-1. Follow the instruction under each model's folder for training and prediction; run budget_allocation.py for each model.
-2. Run OOffline_test.py under Code/Evaluation folder.
+1. Follow the instructions under each model's folder for training and prediction; run budget_allocation.py for each model.
+2. Run Offline_test.py under Code/Evaluation folder.
 
 
 ## **Implementation Details**
