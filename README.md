@@ -21,9 +21,8 @@ Steps to reproduce the results:
 
 Steps to run the codes:
 
-1. xx
-2. xx
-3. xx
+1. Follow the instruction under each model's folder for training and prediction; run budget_allocation.py for each model.
+2. Run OOffline_test.py under Code/Evaluation folder.
 
 
 ## **Implementation Details**
