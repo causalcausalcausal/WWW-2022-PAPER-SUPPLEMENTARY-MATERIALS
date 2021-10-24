@@ -11,6 +11,6 @@ The steps for simulation data are as follow:
     
 The steps for RCT data are as follow:
 
-    unzip CF_DT_Rct.zip
+    unzip CF_DT_RCT.zip
     follow instructions under ./MBCF_RCT for training and prediciton
     python CF_DT_budget_allocation-RCT.py
