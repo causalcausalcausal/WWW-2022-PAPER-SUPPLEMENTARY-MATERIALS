@@ -21,7 +21,7 @@ Steps to reproduce the results:
 
 Steps to run the codes:
 
-1. Follow the instructions under each model's folder for training and prediction; run budget_allocation.py for each model.
+1. Follow the instructions under each model's folder for training and prediction; run budget_allocation-RCT.py for each model.
 2. Run Offline_test.py under Code/Evaluation folder.
 
 
