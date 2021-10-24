@@ -3,10 +3,14 @@
 
 This model utilized C++ code for training MBCF models and prediction, and python for data processing.
 
-Folder for simulation data:
-./MBCF_Synthetic
+The steps for simulation data are as follow:
 
-Folder for RCT data:
-./MBCF_RCT
+    unzip MBCF_Synthetic
+    follow instructions uner ./MBCF_Synthetic for training and prediciton
+    python CF_DT_budget_allocation.py
+    
+The steps for RCT data are as follow:
 
-Please follow the README file in each folder to train models.
+    unzip MBCF_RCT
+    follow instructions uner ./MBCF_RCT for training and prediciton
+    python CF_DT_budget_allocation-RCT.py
