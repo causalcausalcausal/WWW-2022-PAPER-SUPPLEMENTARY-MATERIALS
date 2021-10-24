@@ -15,6 +15,5 @@ The steps for RCT data are as follow:
 
     unzip CF_DT_RCT.zip
     follow instructions under ./MBCF_RCT for training and prediciton
-    python preprocessing.py
     python data_merging.py
     python CF_DT_budget_allocation-RCT.py
