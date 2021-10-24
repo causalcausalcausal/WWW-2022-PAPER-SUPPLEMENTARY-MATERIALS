@@ -6,4 +6,4 @@ and the result is shown in Section 5.1. For offline test on real-word data, we a
 corresponding to the result in Section 5.2.
 
 
-*Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication but the reader can use the code provided to run this algorithm on other dataset. Offline_test.py only provides the sample code to calculate percentage mean gain. NOT FOR REPRODUCE THE RESULT** in Section 5.2*
+*Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication. Offline_test.py only provides the sample code to calculate percentage mean gain. NOT FOR REPRODUCE THE RESULT** in Section 5.2*
