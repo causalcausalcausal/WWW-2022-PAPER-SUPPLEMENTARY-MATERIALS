@@ -7,12 +7,12 @@ This repo contains all the data, code files and pics mentioned in Supplementary 
 #### ***Section 5.1 Simulation Analysis***
 
 Steps to reproduce the results:
-
+```
 1. Add your work directory to "homePath" in generateSimulationData.R under Code/Data_generation folder.
 2. Run generateSimulationData.R.
 3. Follow the instructions under each model's folder for training and prediction; run budget_allocation.py for each model.
 4. Run Simulation_analysis.py under Code/Evaluation folder.
-
+```
 
 #### ***Section 5.2 Offline Test***
 
@@ -20,10 +20,11 @@ Steps to reproduce the results:
 *Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication but the reader can use the code provided to run this algorithm on other dataset. However, a small part (about 2000 samples) of the complete data are provided in Data Folder just for testing the code, NOT FOR REPRODUCE THE RESULT in Section 5.2, and ALL THE 2000 SAMPLES HAVE BEEN Encrypted.*
 
 Steps to run the codes:
-
-1. Follow the instructions under each model's folder for training and prediction; run budget_allocation-RCT.py for each model.
-2. Run Offline_test.py under Code/Evaluation folder.
-
+```
+1. Follow the instructions under each model's folder for training and prediction.
+2. Run budget_allocation-RCT.py for each model.
+3. Run Offline_test.py under Code/Evaluation folder.
+```
 
 ## **Implementation Details**
 
