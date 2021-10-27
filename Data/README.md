@@ -31,3 +31,5 @@ However, a small part (about 2000 samples) of real-world data are provided in **
 1.  Column[1] - total number of campaign active days in the last 30 days.
 2.  Column[4] - total number of video views in the last 30 days.
 3.  Column[5] - number of fans.
+
+
