@@ -11,7 +11,7 @@ The steps for simulation data are as follow:
     python predSimu.py
     python CT_ST_budget_allocation.py
 
-For RCT data, change the dataType in main.R file then run as follow:
+For RCT data, plz change the dataType in main.R file then run as follow:
     
     python dataPrepRCT.py
     Rscript main.R
