@@ -1,6 +1,6 @@
 # Chi_ED_CTS README
 
-This model utilized Python code from https://github.com/uber/causalml for model prediction. Please check CausalML for python environment.
+This model utilized Python code from https://github.com/uber/causalml for model prediction. Plz check CausalML for python environment.
  
 The steps for simulation data are as follow:
 
